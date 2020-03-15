@@ -45,3 +45,4 @@ Los aspectos más graves son:
 1. Vídeo en bucle en la página principal, es demasiado grande y provoca latencia, distracción y malestar.
 2. Sección de ayuda no está traducido
 3. Las búsquedas tienen pocos filtros y es todo muy genérico a la hora de buscar.
+<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
