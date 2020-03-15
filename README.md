@@ -31,7 +31,7 @@ Se ha escogido a Darío debido a tener el perfil de un usuario maduro pero torpe
 
 ## [Anabel](https://pmartin97.github.io/indexP.html)
 Se ha escogido a Anabel porque representa el perfil de un usuario joven y hábil con la tecnología, al contrario que ocurre con Darío, un usuario que se frustra muy fácilmente con la tecnologa. También se ha escogido debido a su comportamiento mas excéntrico y alocado.
-![Método UX](photos/UserAnabel.png)
+![Método UX](photos/UserAnabel.PNG)
 
 # Journey Map:
 Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas al manejar un ordenador y un caso programado  por parte de Anabel la cual tiene experiencia para poder analizar en ambos casos la experiencia del usuario.
