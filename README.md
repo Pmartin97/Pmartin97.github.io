@@ -3,10 +3,22 @@
 
 # Análisis competitivo:
 
-Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith,... Finalmente se ha seleccionado eatwith por varios motivos:
-    No es tan conocido como otras aplicaciones como Facebook o Meetup.
-    Ni es muy general ni muy específico, se centra en experiencias sobre la comida, pero no se centra únicamente en comer, también tiene experiencias cocinando.
-    A simple vista se han detectado posibles mejoras en el diseño de la página.
+Las aplicaciones de compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos. Se han seleccionado varias aplicaciones, de entre ellas facebook, meetup, emycet, artery, eatwith.
+
+| Aplicación  | Uso       | Web    |Android  | Actividad  | Popularidad | Tipo             | Inconvenientes encontrados |
+| :---        |    :----: | :----: |  :----: | :----:     | :----:      | :----:           | :----:  |
+| Facebook    | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio variado     | Demasiado general, dependiente del grupo creador   |
+| Meetup      | Gratuito  | Sí     | Sí       | General    | Alta       | Ocio en compañía | Existen muchas aplicaciones similares, finalidad variada   |
+| Emycet      | Gratuito  | Sí     | No       | Específica | Media      | Viajes           | Coste elevado  |
+| Artery      | Gratuito  | Sí     | No       | Específica | Baja       | Shows            | Bajo SEO, no es fácil de encontrar    |
+| Eatwith     | Gratuito  | Sí     | Sí       | Específica | Media-baja | Gastronómico     | No presenta grandes inconvenientes   |
+
+
+
+Finalmente se ha seleccionado eatwith por varios motivos:<br>
+  1. No es tan conocido como otras aplicaciones como Facebook o Meetup.
+   2. Aunque se centra en actividades específicas, se centra en experiencias sobre la comida, no se centra únicamente en comer, también tiene experiencias cocinando o en tours de comida(lo que puede incluir un pequeño programa turístico).
+   3. A simple vista se han detectado posibles mejoras en el diseño de la página.
    
 La aplicación eatwith proporciona experiencias culinarias, de entre ellas comidas privadas, tours y clases de cocina.
 
