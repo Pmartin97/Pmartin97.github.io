@@ -85,7 +85,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Ayudar a todos sus pacientes a curarse", "Afán de superación", "Sacarse el carné de moto porque no se puede aparcar en el centro", "Plantar flores de varios colores en su jardín", "Comprarse un móvil nuevo porque el suyo funciona mal" ],
 				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal o lento", "No poder hacer deporte por una lesión", "El agobio de los atascos y el ruido", "Aunque le guste su trabajo, no tener tanto tiempo para quedar con sus amigos"],
-				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años. Tengo pareja estable y nos encanta hacer excursiones al campo",
+				Bio: "Nacida en Valderrubio(Granada) en el 91. Mis padres son Antonio y María y tengo cuatro hermanas entre ellas soy la mayor: María(27), Laura(27), Elvira(25) y Lucía(24). Desde pequeña tuve una gran afición por la medicina así que mis padres se compraron una casa en la ciudad para poder ir a los mejores centros. Estudié en el I.E.S. Padre Suárez y después estudié el grado de Fisioterapia en la UGR. Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años. Tengo pareja estable y nos encanta hacer excursiones al campo",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 3 },
