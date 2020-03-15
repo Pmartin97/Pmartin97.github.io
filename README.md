@@ -37,7 +37,7 @@ Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas 
 Enlace al excel: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.xls
 Enlace al PDF: https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf
 Puntuación final: 78
-<iframe src="https://github.com/Mxgang/DIU20/blob/master/P1/Usability-review-template.pdf" height="200" width="300"></iframe>
+<a href="username.github.io/usability-review-template.pdf" target="_blank">PDF.</a>
 ![PDF](https://github.com/Pmartin97/Pmartin97.github.io/blob/master/usability.html)
 La aplicación en cuanto a funcionalidad es correcta. El registro, las búsquedas y otras funciones son sencillas y fáciles de entender. En cuanto al aspecto visual, la página contiene demasiado contenido concentrado y en muchas ocasiones incluso innecesario. Otros aspectos extras como el cambio de idioma y moneda puede ser de de utilidad, el problema es que en la sección de ayuda no está traducido.
 
