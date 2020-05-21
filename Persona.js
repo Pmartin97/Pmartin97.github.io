@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
-			},
+			}
 			
 			
 			
