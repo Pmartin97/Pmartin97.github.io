@@ -103,7 +103,8 @@ angular.module("angular", [])
 			},
 			
 			
-			{Id: 2,
+			{
+				Id: 2,
 				Name: "Alberto Fernández",
 				Photo: "man.png",
 				Quote: "El esfuerzo siempre tiene su recompensa",
