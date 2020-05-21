@@ -21,34 +21,34 @@ angular.module("angular", [])
 		$scope.Personas = [
 			{
 				Id: 0,
-				Name: "Alberto Fernández",
+				Name: "Darío Noxus",
 				Photo: "man.png",
-				Quote: "El esfuerzo siempre tiene su recompensa",
-				Age: 28,
-				Occupation: "Profesor de Universidad",
-				Family: "Casado desde hace 2 años",
-				Location: "Granada (Chana)",
-				Character: "Simpático, temperamental y constante.", 
+				Quote: "¡Luchen, sangren, no cedan ante la debilidad",
+				Age: 40,
+				Occupation: "Abogado",
+				Family: "Casado desde hace 15 años y con 1 hijo de 10 años",
+				Location: "Granada (Armilla)",
+				Character: "Amable, empático, familiar y tradicional. Se frustra con facilidad con la tecnología, odia la política", 
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["Que el año que viene no suspenda ningún alumno", "Realizar un viaje a Italia", "Aprender a cocinar", "En un futuro, tener dos hijas y un hijo"],
-				Frustrations: ["El ruido del tráfico", "El poco entusiasmo de muchos alumnos", "No mejorar físicamente, cuando va al gimnasio", "Que se le olviden las cosas"],
-				Bio: "Nació en Valencia, en Alicante. Desde siempre quiso ser Informático, así que estudió la carrera de Ingienería Informática en Granada. Al terminar los estudios quiso centrar su carrera en investigación y en la enseñanza. Lleva 5 años impartiendo clases y está contento de su trabajo actual. Está casado con María Martínez, a quien conoció en una conferencia de ciberseguridad.",
+				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo", "Probar nuevos platos cada mes", "Comprarse un Tesla", "Que su hijo siga sus pasos como abogado, pero respetará si decide estudiar otra cosa"],
+				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Pocos días libres al mes por culpa del trabajo", "Suele perderse los eventos escolares de su hijo"],
+				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 4 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 4 }
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "En el despacho que tiene hay problemas  eléctricos y necesita un sitio donde pueda trabajar tranquilamente.",  
+                Contextos: "Próximamente tendrá varios días libres, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 2 },
-					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Online & Social Media", Value: 2 },
 					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
