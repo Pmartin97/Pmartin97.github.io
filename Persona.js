@@ -28,11 +28,11 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Darío Sanabria",
+				Name: "Darío Noxus",
 				Photo: "man.png",
 				Quote: "¡Luchen, sangren, no cedan ante la debilidad",
 				Age: 40,
-				Occupation: "Abogado de familia",
+				Occupation: "Abogado",
 				Family: "Casado desde hace 15 años y con 1 hijo de 10 años",
 				Location: "Granada (Armilla)",
 				Character: "Amable, empático, familiar y tradicional. Se frustra con facilidad con la tecnología, odia la política", 
@@ -43,7 +43,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
 				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo", "Probar nuevos platos cada mes", "Comprarse un Tesla", "Que su hijo siga sus pasos como abogado, pero respetará si decide estudiar otra cosa"],
-				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Suele perderse los eventos escolares de su hijo"],
+				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Pocos días libres al mes por culpa del trabajo", "Suele perderse los eventos escolares de su hijo"],
 				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Próximamente tendrá varios días libres que le corresponden del trabajo, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
+                Contextos: "Próximamente tendrá varios días libres, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
@@ -74,8 +74,8 @@ angular.module("angular", [])
 				Quote: "La única persona que puede vencerme, soy yo misma.",
 				Age: 29,
 				Occupation: "Fisioterapéutica",
-				Family: "Padres: Antonio y María, cuatro hermanas: María, Laura, Elvira y Lucía.Actualmente pareja(2años): Sergio",
-				Location: "Nacida en Valderrubio y residiendo en Granada(zona del Beiro)",
+				Family: "Cuatro hermanas.",
+				Location: "Valderrubio",
 				Character: "Adaptable, extrovertida y risueña.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
@@ -84,8 +84,8 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
 				Goals: ["Ayudar a todos sus pacientes a curarse", "Afán de superación", "Sacarse el carné de moto porque no se puede aparcar en el centro", "Plantar flores de varios colores en su jardín", "Comprarse un móvil nuevo porque el suyo funciona mal" ],
-				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal o lento", "No poder hacer deporte por una lesión", "El agobio de los atascos y el ruido", "Los estereotipos físicos"],
-				Bio: "Nacida en Valderrubio(Granada) en el 91. Mis padres son Antonio y María y tengo cuatro hermanas entre ellas soy la mayor: María(27), Laura(27), Elvira(25) y Lucía(24). Desde pequeña tuve una gran afición por la medicina así que mis padres se compraron una casa en la ciudad para poder ir a los mejores centros. Estudié en el I.E.S. Padre Suárez y después estudié el grado de Fisioterapia en la UGR. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años, desde que me mudé de casa de mis padres a la zona de plaza de toros de Granada y espero que por muchos años más. Vivo sola aunque mi pareja suele venir a casa.",
+				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal o lento", "No poder hacer deporte por una lesión", "El agobio de los atascos y el ruido", "Aunque le guste su trabajo, no tener tanto tiempo para quedar con sus amigos"],
+				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años. Tengo pareja estable y nos encanta hacer excursiones al campo",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 3 },
@@ -98,6 +98,41 @@ angular.module("angular", [])
 					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
 					{ Name: "Online & Social Media", Value: 3 },
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
+				]
+			},
+			
+			
+			Id: 0,
+				Name: "Alberto Fernández",
+				Photo: "man.png",
+				Quote: "El esfuerzo siempre tiene su recompensa",
+				Age: 28,
+				Occupation: "Profesor de Universidad",
+				Family: "Casado desde hace 2 años",
+				Location: "Granada (Chana)",
+				Character: "Simpático, temperamental y constante.", 
+				PersonalityTraits: [
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
+				], 
+				Goals: ["Que el año que viene no suspenda ningún alumno", "Realizar un viaje a Italia", "Aprender a cocinar", "En un futuro, tener dos hijas y un hijo"],
+				Frustrations: ["El ruido del tráfico", "El poco entusiasmo de muchos alumnos", "No mejorar físicamente, cuando va al gimnasio", "Que se le olviden las cosas"],
+				Bio: "Nació en Valencia, en Alicante. Desde siempre quiso ser Informático, así que estudió la carrera de Ingienería Informática en Granada. Al terminar los estudios quiso centrar su carrera en investigación y en la enseñanza. Lleva 5 años impartiendo clases y está contento de su trabajo actual. Está casado con María Martínez, a quien conoció en una conferencia de ciberseguridad.",
+				Tech: [
+					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 3 },
+					{ Name: "Software", Value: 4 }
+					
+				], 
+                Contextos: "En el despacho que tiene hay problemas  eléctricos y necesita un sitio donde pueda trabajar tranquilamente.",  
+				PreferredChannels: [
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
